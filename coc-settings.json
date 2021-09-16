@@ -1,0 +1,17 @@
+{
+  "coc.preferences.formatOnType": true,
+  "coc.preferences.formatOnSaveFiletypes": [
+    "c",
+    "c++",
+    "javascript",
+    "java",
+    "typescript",
+    "json",
+    "typescriptreact",
+    "python",
+    "Markdown",
+    "html",
+    "css",
+    "javascriptreact"
+  ]
+}
