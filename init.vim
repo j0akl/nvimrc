@@ -109,7 +109,7 @@ au BufNewFile,BufRead *.js,*.html,*.css,*.svelte,*.txt,*.java,*.ts,*.tsx,*.jsx,*
     \ shiftwidth=2
 
 
-au BufNewFile,BufRead *.c,*.hpp,*.cpp,*.cs
+au BufNewFile,BufRead *.c,*.hpp,*.cpp,*.cs,*.s
     \ set tabstop=2
     \ softtabstop=2
     \ shiftwidth=4
