@@ -112,7 +112,7 @@ au BufNewFile,BufRead *.js,*.html,*.css,*.svelte,*.txt,*.java,*.ts,*.tsx,*.jsx,*
 au BufNewFile,BufRead *.c,*.hpp,*.cpp,*.cs,*.s
     \ set tabstop=2
     \ softtabstop=2
-    \ shiftwidth=4
+    \ shiftwidth=2
     \ textwidth=80
     \ expandtab
     \ autoindent
